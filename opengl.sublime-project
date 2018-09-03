@@ -1,0 +1,34 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns":"release"
+		},
+		{	"name": "Headers",
+			"path": "includes",
+			"file_include_patterns":"*.hpp"
+		},
+		{
+			"name":"Sources",
+			"path": "src",
+			"file_include_patterns":"*.cpp"
+		},
+		{
+			"name":"Shaders",
+			"path": "shaders",
+			"file_include_patterns":"*.[vfg]s"
+		},
+		{
+			"name":"_Output",
+			"path":"./release/exec"
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name":"C++ custom",
+			"shell_cmd": "cd $project_path && make run && ./release/exec/run"
+		}
+	]
+}

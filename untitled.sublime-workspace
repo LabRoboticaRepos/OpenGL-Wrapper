@@ -1,0 +1,919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"D",
+				"Dev"
+			],
+			[
+				"SQL",
+				"SDL_Quit"
+			],
+			[
+				"W",
+				"WindowEvent"
+			],
+			[
+				"R",
+				"ResizeCallback"
+			],
+			[
+				"Scre",
+				"ScreenManager"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"SD",
+				"SDL_Event"
+			],
+			[
+				"SCreen",
+				"ScreenManager"
+			],
+			[
+				"SDL_",
+				"SDL_KEYDOWN"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"S",
+				"SDL"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"po",
+				"posX"
+			],
+			[
+				"E",
+				"ExitOnError"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"SDL",
+				"SDLHeads"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"bi",
+				"binds"
+			],
+			[
+				"bind",
+				"bindHandler"
+			],
+			[
+				"bin",
+				"bindHandler"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tabl",
+				"tableCuentas"
+			],
+			[
+				"ta",
+				"tableEmpleados"
+			],
+			[
+				"upd",
+				"updateRecord"
+			],
+			[
+				"t",
+				"tableCuentas"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"tab",
+				"tableCuentas"
+			],
+			[
+				"s",
+				"statement"
+			],
+			[
+				"getAt",
+				"getAutoIncrementValue"
+			],
+			[
+				"re",
+				"resultset"
+			],
+			[
+				"res",
+				"resultset"
+			],
+			[
+				"cuenta",
+				"cuentaName"
+			],
+			[
+				"in",
+				"infoLog"
+			],
+			[
+				"cue",
+				"cuenta"
+			],
+			[
+				"cuen",
+				"cuentaName"
+			],
+			[
+				"get",
+				"getRecords"
+			],
+			[
+				"table",
+				"tableEmpleados"
+			],
+			[
+				"stet",
+				"statement"
+			],
+			[
+				"ste",
+				"statement"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"dat",
+				"database"
+			],
+			[
+				"data",
+				"databaseName"
+			],
+			[
+				"m",
+				"mysql"
+			],
+			[
+				"ge",
+				"getAllRecords"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"em",
+				"empleados"
+			],
+			[
+				"empl",
+				"empleados"
+			],
+			[
+				"pre",
+				"prevUser"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"ad",
+				"addSql"
+			],
+			[
+				"cu",
+				"cuentaData"
+			],
+			[
+				"emple",
+				"empleado"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"admi",
+				"adminControl"
+			],
+			[
+				"row",
+				"rowsS"
+			],
+			[
+				"admin",
+				"admin-control"
+			],
+			[
+				"ti",
+				"tipo"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"pe",
+				"people"
+			],
+			[
+				"session",
+				"session-control"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"root",
+				"rootPassword"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"mys",
+				"mysqlController"
+			],
+			[
+				"ses",
+				"session_control"
+			],
+			[
+				"sessio",
+				"session_control"
+			],
+			[
+				"X",
+				"XMLS"
+			],
+			[
+				"G",
+				"GTKLIBS"
+			],
+			[
+				"my",
+				"mycoll"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"l",
+				"LFLAGS"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"file",
+				"fileLoc"
+			],
+			[
+				"is",
+				"isLetter"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"end",
+				"endStream"
+			],
+			[
+				"bu",
+				"bufferIter"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"b",
+				"buffer"
+			],
+			[
+				"o",
+				"OUTDIR"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"O",
+				"OUTDIR"
+			],
+			[
+				"C",
+				"CFLAGS"
+			],
+			[
+				"cli",
+				"clientlen"
+			],
+			[
+				"SO",
+				"SO_REUSEADDR"
+			],
+			[
+				"c",
+				"clientlen"
+			],
+			[
+				"clie",
+				"clientData"
+			],
+			[
+				"socke",
+				"socketid"
+			],
+			[
+				"ma",
+				"maxClient"
+			],
+			[
+				"f",
+				"fprintf\tfprintf …"
+			],
+			[
+				"soce",
+				"socketData"
+			],
+			[
+				"sock",
+				"socketid"
+			],
+			[
+				"socket",
+				"socketid"
+			],
+			[
+				"soc",
+				"socketData"
+			],
+			[
+				"CH",
+				"childBranch"
+			],
+			[
+				"ip",
+				"ip"
+			],
+			[
+				"socka",
+				"sockaddr_in"
+			],
+			[
+				"so",
+				"sockD"
+			],
+			[
+				"L",
+				"LFLAGS"
+			],
+			[
+				"li",
+				"LIBDIR"
+			],
+			[
+				"parent",
+				"parentFunction"
+			],
+			[
+				"move",
+				"move"
+			],
+			[
+				"bes",
+				"best"
+			],
+			[
+				"be",
+				"best"
+			],
+			[
+				"best",
+				"bestIndex"
+			],
+			[
+				"pr",
+				"proof"
+			],
+			[
+				"man",
+				"manhMatrixSum"
+			],
+			[
+				"whe",
+				"whereAreAll"
+			],
+			[
+				"mo",
+				"movement"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"_",
+				"_8puzzle"
+			],
+			[
+				"mas",
+				"mask"
+			],
+			[
+				"w",
+				"whereIs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/glad.cpp",
+			"settings":
+			{
+				"buffer_size": 104906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 107,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "opengl.sublime-project",
+			"settings":
+			{
+				"buffer_size": 129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: glsl",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jpp/Documents/Dev/projects/cpp/projects/opengl",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/opengl/shaders",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/opengl/src"
+	],
+	"file_history":
+	[
+		"/home/jpp/Documents/Dev/projects/cpp/projects/opengl/Makefile",
+		"/home/jpp/jpp/Documents/Dev/projects/cpp/projects/UI-ARM/includes/untitled",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/UI-ARM/subl-project.sublime-project",
+		"/home/jpp/jpp/Documents/Dev/projects/cpp/projects/UI-ARM/src/main.cpp",
+		"/home/jpp/jpp/Documents/Dev/projects/cpp/projects/UI-ARM/Makefile",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/sublime-files/build.sys",
+		"/home/jpp/.config/sublime-text-3/Packages/User/cpp_custom.sublime-build",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/sources/main.cpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/sources/glad.cpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/sources/ScreenManager.cpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/Makefile",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/headers/Shader.hpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/sources/Shader.cpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/headers/Program.hpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/sources/Program.cpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/headers/ScreenManager.hpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/headers/ShaderHandler.hpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/sources/ShaderHandler.cpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/main.cpp",
+		"/home/jpp/Documents/Dev/projects/cpp/projects/robotic_arm/headers",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/empleado-control.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/bin/www",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/tableHandler.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/bin/.hidden/tableHandler",
+		"/home/jpp/Documents/Dev/projects/node/ventas/views/empleados.pug",
+		"/home/jpp/Documents/Dev/projects/node/ventas/views/empleado.pug",
+		"/home/jpp/Documents/Dev/projects/node/ventas/views/layout.pug",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/subRouter/empleados.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/admin.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/public/stylesheets/style.styl",
+		"/home/jpp/Documents/Dev/projects/node/ventas/views/admin.pug",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/admin-control.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/views/index.pug",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/mysqlController.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/app.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/session-control.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/routes/sessionRouter.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/routes/users.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/views/session.pug",
+		"/home/jpp/Documents/Dev/projects/node/ventas/views/error.pug",
+		"/home/jpp/Documents/Dev/projects/node/ventas/js/mysql.js",
+		"/home/jpp/Documents/Dev/projects/node/ventas/routes/index.js",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/builder.ui",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/release/exec/start-app",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/sources/initializer.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/headers/initializer.h",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/headers/environment.h",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/XML/prueba.xml",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/release/exec/mysql.prop",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/sources/SQLmanager.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/sources/propertiesObject.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/headers/sqlManager.hpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/headers/utilsFiles.hpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/sources/utilsLetter.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/headers/utilsLetters.hpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/Makefile",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/sources/main.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/headers/mysqlManager.hpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/admin/sources/a.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/prueba2/Makefile",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/prueba2/concurrent.c",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/prueba2/main.c",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/sources/utils.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/sources/headers/utils.h",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/sources/headers/utils.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/output/exec/run",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/main.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/sources/Makefile",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/sources/main.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/headers/header.h",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/sources/header.cpp",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/HEADERS/header.h",
+		"/home/jpp/Documents/Dev/projects/extra/cpp/sublime/makefile",
+		"/home/jpp/Documents/Dev/projects/extra/python2/n-puzzle/n-puzzle.py",
+		"/home/jpp/Dev/projects/extra/python2/maths/binary.py",
+		"/home/jpp/Dev/projects/firefox/first/main.js",
+		"/home/jpp/Dev/projects/owned/scr/proob.py",
+		"/home/jpp/Dev/projects/firefox/first/manifest.json",
+		"/home/jpp/Dev/projects/owned/scr/bullshit.py",
+		"/home/jpp/Dev/projects/node/pimpom/app.js",
+		"/home/jpp/Dev/projects/node/pimpom/views/layout.pug",
+		"/home/jpp/Dev/projects/node/pimpom/views/stylesheets/main.styl"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/glad.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 104906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 107,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "opengl.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 290.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cpp_custom.sublime-build",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
